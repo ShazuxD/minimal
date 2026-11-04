@@ -1,7 +1,7 @@
 {
   "name": "Debian Recovery",
   "image": "debian:bookworm-slim",
-  "remoteUser": "root",
+  "remoteUser": "root"
   "features": {
     "ghcr.io/devcontainers/features/sshd:1": {}
   }
